@@ -1,0 +1,13 @@
+.contenedor{
+    margin: auto; /*sentreado*/
+    max-width: 700px; /* ancho max*/
+    display: flex; /*orinzontal dos colum*/
+}
+.ima {
+  background-image: url('imagen/per.png');
+  width: 195px;
+  height: 402px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
